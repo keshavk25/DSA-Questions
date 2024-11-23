@@ -2,6 +2,8 @@
 #include<vector>
 #include <algorithm>
 
+// Optimize solution
+
 using namespace std;
 
 void per(int ind,int arr[3], int n){
